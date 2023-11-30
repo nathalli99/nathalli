@@ -1,4 +1,4 @@
-### Hi! I'm Nathalli 
+### Hi! I'm Nathalli :stuck_out_tongue_winking_eye:
 
 - 🌱 Learning: C# | HTML | CSS | ANGULAR |
 - :alien: Pronouns: she/her
