@@ -1,6 +1,6 @@
-### Hi! I'm Nathalli :stuck_out_tongue_winking_eye:
+### Hi! I'm Nathalli :raising_hand:
 
-- 🌱 Learning: C# | HTML | CSS | ANGULAR |
+- :seedling: Learning: C# | HTML | CSS | ANGULAR |
 - :alien: Pronouns: she/her
 <div align="center">
   <a href="https://github.com/">
