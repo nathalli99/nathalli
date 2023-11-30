@@ -1,6 +1,6 @@
 ### Hi! I'm Nathalli 
 
-- 🌱 Learning: C# | HTML | CSS | ANGULAR | SQLServer
+- 🌱 Learning: C# | HTML | CSS | ANGULAR |
 - 😄 Pronouns: she/her
 <div align="center">
   <a href="https://github.com/">
