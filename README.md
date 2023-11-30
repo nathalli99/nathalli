@@ -19,7 +19,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Figma" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40"
+  <img align="center" alt="microsoftsqlserver" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
  
