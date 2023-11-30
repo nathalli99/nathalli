@@ -1,7 +1,7 @@
 ### Hi! I'm Nathalli 
 
 - 🌱 Learning: C# | HTML | CSS | ANGULAR |
-- 😄 Pronouns: she/her
+- :alien: Pronouns: she/her
 <div align="center">
   <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalli99&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
