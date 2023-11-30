@@ -1,6 +1,6 @@
 ### Hi! I'm Nathalli :raising_hand:
 
-- :seedling: Learning: C# | HTML | CSS | ANGULAR |
+- :seedling: Learning: C# | HTML | CSS | ANGULAR | SQL
 - :alien: Pronouns: she/her
 <div align="center">
   <a href="https://github.com/">
@@ -20,7 +20,7 @@
   <img align="center" alt="Figma" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="SQLServer" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
  
           
