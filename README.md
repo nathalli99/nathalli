@@ -1,6 +1,6 @@
 ### Hi! I'm Nathalli :raising_hand:
 
-- :seedling: Learning: C# | HTML | CSS | ANGULAR | SQLServer
+- :seedling: Learning: C# | ANGULAR | SQLServer
 - :alien: Pronouns: she/her
 <div align="center">
   <a href="https://github.com/">
