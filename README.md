@@ -1,4 +1,4 @@
-# Hi there! I'm Nathalli :raising_hand:
+### Hi there! I'm Nathalli :raising_hand:
 
 I am currently studying **Systems Analysis and Development** at **SPTech School**.  
 I have a strong interest in **backend development** and **databases**, and I am always eager to learn new technologies to improve my skills.  
