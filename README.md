@@ -16,7 +16,7 @@ I have a strong interest in **backend development** and **databases**, and I am 
 
 ## 📫 Let's Connect!  
 Feel free to reach out to me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/nathalli-ribeiro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/nathalli-ribeiro)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathalli99)  
 
 <div align="center">
