@@ -4,11 +4,11 @@ I am currently studying **Systems Analysis and Development** at **SPTech School*
 I have a strong interest in **backend development** and **databases**, and I am always eager to learn new technologies to improve my skills.  
 
 ## 💻 Technologies & Skills  
-- 🔹 **Programming Languages:** C#, JavaScript  
-- 🔹 **Backend:** .NET  
-- 🔹 **Databases:** MySQL, SQLServer  
-- 🔹 **Version Control:** Git & GitHub  
-- 🔹 **Learning:** JavaScript, HTML, CSS, Shell  
+🔹 **Programming Languages:** C#, JavaScript  
+🔹 **Backend:** .NET  
+🔹 **Databases:** MySQL, SQLServer  
+🔹 **Version Control:** Git & GitHub  
+🔹 **Learning:** JavaScript, HTML, CSS, Shell  
 
 ## 🚀 About Me  
 - 📚 Always learning and improving my skills  
